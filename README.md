@@ -58,6 +58,8 @@ This project is based on a fictional training scenario and is intended solely to
 
 ![Control Assessment](screenshots/control-assessment.png)
 
+This screenshot shows a representative extract from the control assessment. The full assessment covered 10 security and risk domains, with vendor responses reviewed against supporting evidence before assigning a control verdict.
+
 ## Risk Findings
 
 ![Findings Register](screenshots/findings.png)
