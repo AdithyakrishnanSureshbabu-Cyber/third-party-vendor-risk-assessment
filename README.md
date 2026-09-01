@@ -50,3 +50,22 @@ The completed Excel workbook is included in this repository.
 ## Disclaimer
 
 This project is based on a fictional training scenario and is intended solely to demonstrate practical GRC and Third-Party Risk Management skills.
+## Vendor Profile
+
+![Vendor Profile](screenshots/vendor-profile.png)
+
+## Control Assessment
+
+![Control Assessment](screenshots/control-assessment.png)
+
+## Risk Findings
+
+![Findings Register](screenshots/findings.png)
+
+## Risk Rating Matrix
+
+![Risk Rating Matrix](screenshots/risk-rating-matrix.png)
+
+## Final Decision
+
+![Final Risk Decision](screenshots/decision.png)
