@@ -207,7 +207,7 @@ However, production go-live remains blocked until the two Critical findings are 
 
 The completed assessment workbook can be viewed here:
 
-[View the Vendor Risk Assessment Workbook](Vendor_Risk_Assessment_Workbook.xlsx)
+[View the Vendor Risk Assessment Workbook](Vendor_Risk_Assessment_Workbook_TPRM.xlsx)
 
 The workbook contains six main assessment sheets:
 
@@ -247,5 +247,3 @@ These sheets document the full assessment process from initial vendor scoping th
 ## Disclaimer
 
 This project is based on a fictional training scenario and is intended solely to demonstrate practical Governance, Risk and Compliance and Third-Party Risk Management skills.
-
-[View the Vendor Risk Assessment Workbook](Vendor_Risk_Assessment_Workbook_TPRM.xlsx)
